@@ -2,6 +2,9 @@
 
 An interactive Resorce Analytics dashboard built with **Power BI** that uncovers key workforce insights such as attrition trends, employee distribution, department-level breakdowns, and salary patterns. This project enables data-driven decision-making in Human Resources and supports workforce planning and retention strategies.
 
+![image](https://github.com/user-attachments/assets/ab2acce0-7e43-48fd-818d-ecf7928764ac)
+
+
 ---
 
 ## 📈 Executive Summary
