@@ -1,16 +1,16 @@
 # 📊 Resource Analytics 2025 – Power BI Dashboard
 
-An interactive HR Analytics dashboard built with **Power BI** that uncovers key workforce insights such as attrition trends, employee distribution, department-level breakdowns, and salary patterns. This project enables data-driven decision-making in Human Resources and supports workforce planning and retention strategies.
+An interactive Resorce Analytics dashboard built with **Power BI** that uncovers key workforce insights such as attrition trends, employee distribution, department-level breakdowns, and salary patterns. This project enables data-driven decision-making in Human Resources and supports workforce planning and retention strategies.
 
 ---
 
 ## 📈 Executive Summary
 
-The **Resource Analytics 2025** dashboard analyzes employee data to identify trends in attrition, education background, department performance, salary bands, and job roles. By combining visual storytelling with interactive filters, it helps stakeholders assess HR performance and take proactive measures for talent retention.
+The **Resource Analytics 2025** dashboard analyzes employee data to identify trends in attrition, education background, department performance, salary bands, and job roles. By combining visual storytelling with interactive filters, it helps stakeholders assess Resorce performance and take proactive measures for talent retention.
 
 ---
 
-## 📊 Key HR Metrics
+## 📊 Key Resorce Metrics
 
 | Metric                     | Value        |
 |---------------------------|--------------|
@@ -61,7 +61,7 @@ The **Resource Analytics 2025** dashboard analyzes employee data to identify tre
 - **Power BI Desktop** – Dashboard creation and visualization  
 - **DAX** – For custom metrics and KPI logic  
 - **Power Query** – Data cleaning and transformation  
-- **CSV Dataset** – Source file (`HR_Analytics.csv`)
+- **CSV Dataset** – Source file (`Resorce_Analytics.csv`)
 
 ---
 
@@ -70,7 +70,7 @@ The **Resource Analytics 2025** dashboard analyzes employee data to identify tre
 | File                       | Description                          |
 |----------------------------|--------------------------------------|
 | `Resource_Analytics_2025.pbix` | Power BI report file               |
-| `HR_Analytics.csv`         | Cleaned dataset used for modeling     |
+| `Resorce_Analytics.csv`         | Cleaned dataset used for modeling     |
 | `README.md`                | Project documentation                |
 
 ---
@@ -80,7 +80,7 @@ The **Resource Analytics 2025** dashboard analyzes employee data to identify tre
 1. Clone or download this repository.
 2. Open `Resource_Analytics_2025.pbix` in Power BI Desktop.
 3. Interact with the filters and slicers to explore department-wise trends.
-4. Export visuals or share insights with HR stakeholders.
+4. Export visuals or share insights with Resorce stakeholders.
 
 ---
 
